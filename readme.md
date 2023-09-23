@@ -1,3 +1,3 @@
 # Git and GitHub Course
 
-svnsjn
+текст
